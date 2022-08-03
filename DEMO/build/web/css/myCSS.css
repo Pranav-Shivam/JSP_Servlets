@@ -1,0 +1,10 @@
+#form1 label.error {
+	color: red;
+        border: 0px;
+       
+}
+
+#form1 input.error {
+	border: 1px solid red;
+        display: inline-block;
+}
